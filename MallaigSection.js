@@ -1,0 +1,1 @@
+export default function MallaigSection() { return <section><h2>Mallaig</h2><p>[Mallaig content]</p></section>; }
